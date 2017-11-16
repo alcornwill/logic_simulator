@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/Alu.png</file>
+        <file>Resources/And.png</file>
+        <file>Resources/Circuit Board.png</file>
+        <file>Resources/Clock.png</file>
+        <file>Resources/Not.png</file>
+        <file>Resources/Or.png</file>
+        <file>Resources/Connection.png</file>
+        <file>Resources/Cross.png</file>
+        <file>Resources/ConnectionTool.png</file>
+        <file>Resources/Connection2.png</file>
+        <file>Resources/Input.png</file>
+        <file>Resources/Output.png</file>
+        <file>Resources/Pause.png</file>
+        <file>Resources/Start.png</file>
+        <file>Resources/Step.png</file>
+        <file>Resources/Stop.png</file>
+        <file>Resources/Adder.png</file>
+        <file>Resources/Control.png</file>
+        <file>Resources/Counter.png</file>
+        <file>Resources/DownTransformer2.png</file>
+        <file>Resources/Equality.png</file>
+        <file>Resources/FlipFlop.png</file>
+        <file>Resources/FullAdder.png</file>
+        <file>Resources/HalfAdder.png</file>
+        <file>Resources/Memory.png</file>
+        <file>Resources/Mux.png</file>
+        <file>Resources/Nand.png</file>
+        <file>Resources/Nor.png</file>
+        <file>Resources/Randomizer.png</file>
+        <file>Resources/UpTransformer2.png</file>
+        <file>Resources/Xor.png</file>
+        <file>Resources/BitConnection.png</file>
+        <file>Resources/ByteConnection.png</file>
+        <file>Resources/InputAlt.png</file>
+        <file>Resources/Resize.png</file>
+        <file>Resources/Delay.png</file>
+        <file>Resources/Demux.png</file>
+    </qresource>
+</RCC>
